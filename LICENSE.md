@@ -3,7 +3,7 @@ MIT License
 Original work Copyright (c) 2018 Track3
 Original work Copyright (c) 2019 panr
 Modified work Copyright (c) 2019 Djordje Atlialp
-Modified work Copyright (c) 2020 Sarah
+Copyright (c) 2020 Sarah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
