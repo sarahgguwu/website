@@ -1,6 +1,6 @@
 baseURL = "https://imsarah.ca"
 title   = "Hi Friends ^_^"
-languageCode = "en-us"
+languageCode = "en-ca"
 theme = "hugo-theme-hello-friend-ng"
 
 PygmentsCodeFences = true
