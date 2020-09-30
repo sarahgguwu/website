@@ -109,11 +109,11 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/milkerfish"
+    url  = "https://twitter.com/sarah_gg_uwu"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:sarah@imsarah.ca"
+    url  = mailto:sarah@imsarah.ca?cc=sarah.gg.uwu@gmail.com&subject=Website%20-"
 
   [[params.social]]
     name = "github"
