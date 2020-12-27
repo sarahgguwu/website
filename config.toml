@@ -134,10 +134,7 @@ disableHugoGeneratorInject = false
   [[params.social]]
   name = "steam"
   url = "https://steamcommunity.com/id/milkerfish"
-  
-  [[params.social]]
-  name = "keybase"
-  url = "https://keybase.io/sarahgguwu"
+ 
 
 [languages]
   [languages.en]
