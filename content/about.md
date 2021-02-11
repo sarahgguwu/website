@@ -12,7 +12,7 @@ Well here goes,
 
 I'm a 19 years old trans girl who's a bit of a nerd.
 
-I like transit, technology, gaming and a bunch of other stuff.
+Some things I'm interested in include, transit, urbanism, technology, electronic music, anime, gaming and a bunch of other stuff I couldn't be bothered to list.
 
 Come say hi on discord or send me an email (links are on the home page)
 
